@@ -3,7 +3,7 @@ We conducted a series of Workshop based on Deep Learning topics where we taught 
 <br/>
 1) <a href="https://github.com/charusat-gdsc/Neural-Style-Transfer/tree/101_Introduction_To_Python">Introduction to Python</a>
 2) <a href="https://github.com/charusat-gdsc/Neural-Style-Transfer/tree/102_Introduction_To_Neural_Style_Transfer">Introduction to Neural Style Transfer</a>
-3) Yet to conduct 
+3) <a href="https://github.com/charusat-gdsc/Neural-Style-Transfer/tree/103_Implementation_Of_Neural_Style_Transfer">Implementation of Neural Style Transfer</a>
 
 The speakers for the workshop series: 
 

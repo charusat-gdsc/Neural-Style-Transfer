@@ -5,6 +5,8 @@ We conducted a series of Workshop based on Deep Learning topics where we taught 
 2) <a href="https://github.com/charusat-gdsc/Neural-Style-Transfer/tree/102_Introduction_To_Neural_Style_Transfer">Introduction to Neural Style Transfer</a>
 3) <a href="https://github.com/charusat-gdsc/Neural-Style-Transfer/tree/103_Implementation_Of_Neural_Style_Transfer">Implementation of Neural Style Transfer</a>
 
+Recording for the workshops have been uploaded on <a href="https://www.youtube.com/playlist?list=PLChAjTpTm7lCxgdPIXw8-fgwO7ad-lpml">YouTube</a>
+
 The speakers for the workshop series: 
 
 <h3>Rakshil Kevadiya</h3>
